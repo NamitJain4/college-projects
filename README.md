@@ -1,2 +1,2 @@
 # college-projects
-course projects
+Course projects. Made a branch for each project.
